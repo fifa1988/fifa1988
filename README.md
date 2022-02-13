@@ -91,7 +91,8 @@
   &emsp;
     <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
   &emsp;
-    
+    <a href="https://aws.amazon.com/pt/console/"><img alt="AWS" src="https://img.shields.io/badge/-amazon_aws-white?logo=amazonaws&logoColor=232F3E&style=for-the-badge"></a>	
+	
 </p>
 
  ### 👉 Software & Tools
