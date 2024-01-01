@@ -6,7 +6,7 @@
 - :student: I’m currently learning: `Software Engineering`.
 - :nerd_face: I like `learning new things`
 
-[![Linkedin Badge](https://img.shields.io/badge/-midhruvjaink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelfifa1988/)](https://www.linkedin.com/in/rafaelfifa1988/)
+
 
 <br>
 
