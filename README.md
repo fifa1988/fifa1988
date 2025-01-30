@@ -4,7 +4,7 @@
 - :school: Senior Engineering Analyst | Postgraduate in Software Engineering | Postgraduate in Digital Game Development | Bachelor in Information Systems
 - :technologist: I love using Software as a solution for almost everything `Problem`
 - :student: I’m currently learning: `Software Engineering`.
-- :nerd_face: I like `learning new things`
+- :nerd_face: I like `learn new things`
 
 
 
